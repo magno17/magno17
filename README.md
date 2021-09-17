@@ -8,4 +8,4 @@
 magno17/magno17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---> not comand = @BOT_EVENTE = (`-`)(`name.user.author`)
-returne (`COMANDO NÃO EMCONTRADO POR FAVOR VERIFIQUE, E TENTE NOVAMENTE`)
+returne (`COMANDO NÃO EM CONTRADO POR FAVOR VERIFIQUE,TENTE NOVAMENTE`)
